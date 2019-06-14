@@ -3661,6 +3661,7 @@ input, select, textarea {
 			opacity: 1;
 			outline: 0;
 			padding-left: 0.225em;
+            padding-bottom: 10em;
 			position: absolute;
 			text-align: center;
 			text-transform: uppercase;
@@ -3680,6 +3681,7 @@ input, select, textarea {
 				left: 50%;
 				margin: 0 0 0 -0.75em;
 				position: absolute;
+                padding-bottom: 5em;
 				width: 1.5em;
 			}
 
