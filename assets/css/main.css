@@ -23,7 +23,8 @@ section, summary, time, mark, audio, video {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	vertical-align: baseline;}
+	vertical-align: baseline;
+}
 
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
@@ -1762,6 +1763,7 @@ input, select, textarea {
 		color: rgba(255, 255, 255, 0.5);
 		position: relative;
 		top: -0.25em;
+        text-align: justify;
 	}
 
 	header h3 + p {
