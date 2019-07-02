@@ -2559,10 +2559,10 @@ input, select, textarea {
 	}
 
 		.features li {
-			padding: 4em 4em 2em 6em ;
+/*			padding: 4em 4em 2em 6em ;*/
 			display: block;
 			position: relative;
-			text-align: left;
+/*			text-align: left;*/
 			width: 50%;
 		}
 
@@ -2611,10 +2611,11 @@ input, select, textarea {
 			.features li:before {
 				display: block;
 				color: #fff;
-				position: absolute;
+/*				position: absolute;*/
 				left: 1.75em;
 				top: 2.75em;
 				font-size: 1.5em;
+                margin-bottom: 1em;
 			}
 
 			.features li:nth-child(1) {
