@@ -3011,6 +3011,23 @@ input, select, textarea {
 
 			.wrapper.style3 h2, .wrapper.style3 h3, .wrapper.style3 h4, .wrapper.style3 h5, .wrapper.style3 h6 {
 				color: #ffffff;
+                
+			}
+        
+            .wrapper.style3 a, .wrapper.style3 a, .wrapper.style3 a, .wrapper.style3 a, .wrapper.style3 a {
+				color: #ffffff;
+                
+			}
+
+            .wrapper.style3 a:hover, .wrapper.style3 a:hover, .wrapper.style3 a:hover, .wrapper.style3 a:hover, .wrapper.style3 a:hover {
+				color: #21b2a6;
+                border-bottom: dotted 1px;
+                
+			}
+
+            .wrapper.style3 h2:hover, .wrapper.style3 h3:hover, .wrapper.style3 h4:hover, .wrapper.style3 h5:hover, .wrapper.style3 h6:hover {
+				color: #21b2a6;
+                
 			}
 
 			.wrapper.style3 hr {
