@@ -3025,7 +3025,7 @@ input, select, textarea {
                 
 			}
 
-            .wrapper.style3 h2:hover, .wrapper.style3 h3:hover, .wrapper.style3 h4:hover, .wrapper.style3 h5:hover, .wrapper.style3 h6:hover {
+            .wrapper.style3 h2 a:hover, .wrapper.style3 h3 a:hover, .wrapper.style3 h4 a:hover, .wrapper.style3 h5 a:hover, .wrapper.style3 h6 a:hover {
 				color: #21b2a6;
                 
 			}
