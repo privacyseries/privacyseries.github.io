@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "MiCAR and the Monero Ecosystem"
 date: 2024-12-23T00:00:00+08:00
 ---
