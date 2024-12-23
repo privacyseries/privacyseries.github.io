@@ -6,8 +6,6 @@ date: 2024-12-23T00:00:00+08:00
 
 *The Monero Policy Working Group (MPWG) is a loose quorum of individuals attempting to engage in regulatory and policy conversations regarding cryptocurrency, blockchain and distributed ledger technologies.*
 
-# MiCAR and the Monero Ecosystem
-
 ## Intro
 
 Since the birth of Bitcoin and the emergence of the cryptocurrency and Distributed Ledger Technology (DLT) ecosystem, regulatory oversight has been viewed as a sort of estranged bed fellow; close enough for latent heat, yet distant enough to allow a wide array of delectable, sometimes precarious, sleeping positions. 
@@ -50,11 +48,11 @@ The legislation also outlines reporting obligations that CASPs have, the procedu
 
 At a very high level, MiCAR sets rules for the DLT ecosystem, providing legal obligations (MiCAR, Article 2) for aspects such as:
 
-    • transparency and disclosure requirements for the issuance or offer to trading of crypto-assets; 
-    • requirements for the authorisation, supervision, operation, organisation and governance of crypto-asset service providers, and issuers of tokens;
-    • requirements for the protection of holders of crypto-assets;
-    • requirements for the protection of clients of crypto-asset service providers;
-    • measures to prevent insider dealing, unlawful disclosure of inside information and market manipulation related to crypto-assets.
+• transparency and disclosure requirements for the issuance or offer to trading of crypto-assets;
+• requirements for the authorisation, supervision, operation, organisation and governance of crypto-asset service providers, and issuers of tokens;
+• requirements for the protection of holders of crypto-assets;
+• requirements for the protection of clients of crypto-asset service providers;
+• measures to prevent insider dealing, unlawful disclosure of inside information and market manipulation related to crypto-assets.
 
 ## How does MiCAR effect Monero?
 
@@ -69,11 +67,12 @@ Monero has, for years, been traded on a relatively few exchanges due to its lack
 While MiCAR is some 166 pages long, covering a wide range of topics, there is one Article that has a dramatic impact on Monero:
 
 <p style="text-align: center;">
+    
 > **Article 76**
-
 > **Operation of a trading platform for crypto-assets**
 
 > “The operating rules of the trading platform for crypto-assets shall prevent the admission to trading of crypto-assets that have an inbuilt anonymisation function unless the holders of those crypto-assets and their transaction history can be identified by the crypto-asset service providers operating a trading platform for crypto-assets.”
+
 </p>
 
 ## Monero cryptocurrency
