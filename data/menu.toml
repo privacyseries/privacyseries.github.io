@@ -1,4 +1,8 @@
 [[entries]]
+title = "about"
+url = "./content/posts/test-markdown.md"
+
+[[entries]]
 title = "blog posts"
 
   [entries.post_list]
