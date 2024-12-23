@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "overview"
+title: "Overview of how a blog should look"
 date: 2020-07-07T00:00:00+08:00
 ---
 
