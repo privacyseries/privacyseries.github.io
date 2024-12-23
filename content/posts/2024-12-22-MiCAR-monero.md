@@ -69,12 +69,12 @@ Monero has, for years, been traded on a relatively few exchanges due to its lack
 While MiCAR is some 166 pages long, covering a wide range of topics, there is one Article that has a dramatic impact on Monero:
 
 <p style="text-align: center;">
-
 **Article 76**
 
 **Operation of a trading platform for crypto-assets**
 
-“The operating rules of the trading platform for crypto-assets shall prevent the admission to trading of crypto-assets that have an inbuilt anonymisation function unless the holders of those crypto-assets and their transaction history can be identified by the crypto-asset service providers operating a trading platform for crypto-assets.”</p>
+“The operating rules of the trading platform for crypto-assets shall prevent the admission to trading of crypto-assets that have an inbuilt anonymisation function unless the holders of those crypto-assets and their transaction history can be identified by the crypto-asset service providers operating a trading platform for crypto-assets.”
+</p>
 
 ## Monero cryptocurrency
 
