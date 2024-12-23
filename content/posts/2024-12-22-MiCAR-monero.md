@@ -48,11 +48,11 @@ The legislation also outlines reporting obligations that CASPs have, the procedu
 
 At a very high level, MiCAR sets rules for the DLT ecosystem, providing legal obligations (MiCAR, Article 2) for aspects such as:
 
-• transparency and disclosure requirements for the issuance or offer to trading of crypto-assets;
-• requirements for the authorisation, supervision, operation, organisation and governance of crypto-asset service providers, and issuers of tokens;
-• requirements for the protection of holders of crypto-assets;
-• requirements for the protection of clients of crypto-asset service providers;
-• measures to prevent insider dealing, unlawful disclosure of inside information and market manipulation related to crypto-assets.
+- transparency and disclosure requirements for the issuance or offer to trading of crypto-assets;
+- requirements for the authorisation, supervision, operation, organisation and governance of crypto-asset service providers, and issuers of tokens;
+- requirements for the protection of holders of crypto-assets;
+- requirements for the protection of clients of crypto-asset service providers;
+- measures to prevent insider dealing, unlawful disclosure of inside information and market manipulation related to crypto-assets.
 
 ## How does MiCAR effect Monero?
 
@@ -69,9 +69,9 @@ While MiCAR is some 166 pages long, covering a wide range of topics, there is on
 <p style="text-align: center;">
     
 > **Article 76**
-
+>
 > **Operation of a trading platform for crypto-assets**
-
+>
 > “The operating rules of the trading platform for crypto-assets shall prevent the admission to trading of crypto-assets that have an inbuilt anonymisation function unless the holders of those crypto-assets and their transaction history can be identified by the crypto-asset service providers operating a trading platform for crypto-assets.”
 
 </p>
