@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "MPWG response to EU Public Private Partnerships"
+title: "MPWG response to EU Public Private Partnerships framework"
 date: 2021-08-20T00:00:00+08:00
 ---
 
@@ -9,4 +9,4 @@ On August 20, 2021, The Monero Policy Working Group (MPWG) [submitted a comment]
 Please [see our response in full here](https://github.com/monero-policy/docs/blob/main/MPWG_Response_to_PPP.pdf).
 
 
-*The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](https://moneropolicy.org).*
+*The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](./posts/2019-01-01-about/).*
