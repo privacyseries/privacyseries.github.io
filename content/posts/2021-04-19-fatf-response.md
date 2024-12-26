@@ -22,7 +22,7 @@ In summary the key points of our response were:
 
 * We welcomed the fact that the guidance makes clear, in numerous places, relevant authorities should coordinate to ensure required information can be shared between VASPs (‘the Travel Rule’) in a manner that is compatible with national data protection and privacy rules.
 
-Please [see our response in full here](https://moneropolicy.org/assets/pdfs/MPWG_Response_to_FATF_Guidance.pdf).
+Please [see our response in full here]([https://moneropolicy.org/assets/pdfs/MPWG_Response_to_FATF_Guidance.pdf](https://github.com/monero-policy/docs/blob/main/MPWG_Response_to_FATF_Guidance.pdf)).
 
 
 *The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](../2019-01-01-about/).*
