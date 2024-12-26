@@ -118,6 +118,6 @@ Whether this new functionality will provide an avenue for appeasing CASPs in the
 
 It should also be stated that while MiCAR has impacted the Monero ecosystem, the benefits of Monero receiving regulatory approval is not entirely clear, especially given the communities ongoing commitment to decentralisation, open-source ideology, and privacy-by-design-and-default.
 
-*The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](https://moneropolicy.org/about/).*
+*The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](./posts/2019-01-01-about/).*
 
 *This authorship of this blog was kindly supported by funding from [Power Up Privacy](https://powerupprivacy.com/).*
