@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "MPWG response to EC AML framework"
+title: "MPWG response to Tornade Cash sanctions"
 date: 2022-09-12T00:00:00+08:00
 ---
 
