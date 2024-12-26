@@ -9,4 +9,4 @@ The Monero Policy Working Group responded to FinCEN yesterday in general support
 Please [see our response in full here](https://github.com/monero-policy/docs/blob/main/MPWG%20on%20FinCEN_01-04-2021.pdf).
 
 
-*The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](./posts/2019-01-01-about/).*
+*The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](../2019-01-01-about/).*
