@@ -35,4 +35,4 @@ We encourage readers to make a tax-deductible donation towards [ETH <> XMR atomi
 If you would like to get involved in the MPWG efforts, you can join our Matrix channel: [#monero-policy](https://matrix.to/#/#monero-policy:monero.social?via=matrix.org&via=monero.social)
 
 
-*The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](https://moneropolicy.org).*
+*The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](./posts/2019-01-01-about/).*
