@@ -1,10 +1,12 @@
 # MPWG website.
 
-ported from Hugo 'no style please'. Please see further info below for licence, etc.
+[Hugo](https://gohugo.io/) theme ported from [hanwenguo](https://github.com/hanwenguo/hugo-theme-nostyleplease/) which was originally ported from [riggraz/no-style-please](https://github.com/riggraz/no-style-please/).
+
+Please see further info below for licence, etc.
 
 ## no style, please!
 
-<img src="https://raw.githubusercontent.com/hanwenguo/hugo-theme-nostyleplease/main/logo.png" width="64" align="left" />A (nearly) no-CSS, fast, minimalist [Hugo](https://gohugo.io/) theme ported from [riggraz/no-style-please](https://github.com/riggraz/no-style-please/).
+<img src="https://raw.githubusercontent.com/hanwenguo/hugo-theme-nostyleplease/main/logo.png" width="64" align="left" />A (nearly) no-CSS, fast, minimalist [Hugo](https://gohugo.io/) theme.
 
 ### Contributing
 
