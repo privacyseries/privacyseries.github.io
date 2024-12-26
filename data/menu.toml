@@ -1,12 +1,16 @@
 [[entries]]
 title = "about"
-url = "../content/about-test.md"
+url = "./posts/2019-01-01-about/"
 
 [[entries]]
 title = "blog posts"
 
   [entries.post_list]
-  limit = 20
+  limit = 5
   show_more = true
   show_more_text = "See archive..."
   show_more_url = "posts"
+
+[[entries]]
+title = "github"
+url = "https://github.com/monero-policy"
