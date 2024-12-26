@@ -25,4 +25,4 @@ In summary the key points of our response were:
 Please [see our response in full here](https://moneropolicy.org/assets/pdfs/MPWG_Response_to_FATF_Guidance.pdf).
 
 
-*The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](./posts/2019-01-01-about/).*
+*The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](../2019-01-01-about/).*
