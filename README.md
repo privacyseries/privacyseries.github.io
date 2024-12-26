@@ -8,6 +8,7 @@ Please see further info below for licence, etc.
 
 <img src="https://raw.githubusercontent.com/hanwenguo/hugo-theme-nostyleplease/main/logo.png" width="64" align="left" />A (nearly) no-CSS, fast, minimalist [Hugo](https://gohugo.io/) theme.
 
+
 ### Contributing
 
 Bug reports and pull requests are welcome on GitHub at https://github.com/hanwenguo/hugo-theme-nostyleplease/.
