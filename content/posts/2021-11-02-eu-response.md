@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "MPWG response to EC AML framework"
+title: "MPWG response to EU AML framework"
 date: 2021-11-02T00:00:00+08:00
 ---
 
