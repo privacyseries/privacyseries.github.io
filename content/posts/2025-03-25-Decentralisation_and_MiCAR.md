@@ -182,10 +182,10 @@ Finanstilsynet, however, **do provide a method for qualifying the degree of dece
 
 The high-level overview is provided in this diagram:
 
-![test-image](../../images/diagram_1.png)
+![test-image](./images/diagram_1.png)
 
 {{< figure 
-    src="../../images/diagram_1.png"
+    src="./images/diagram_1.png"
     alt="test-image"
     caption="test-image"
     >}}
