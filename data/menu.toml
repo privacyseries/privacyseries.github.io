@@ -14,3 +14,7 @@ title = "blog posts"
 [[entries]]
 title = "github"
 url = "https://github.com/monero-policy"
+
+[[entries]]
+title = "x"
+url = "https://x.com/MoneroPolicy"
