@@ -6,7 +6,7 @@ date: 2025-03-25T00:00:00+08:00
 
 *The Monero Policy Working Group (MPWG) is a loose quorum of individuals attempting to engage in regulatory and policy conversations regarding cryptocurrency, blockchain and distributed ledger technologies.*
 
-##Introduction
+## Introduction
 
 In a previous post, published on [reddit](https://redlib.kittywi.re/r/Monero/comments/1hp1auc/micar_and_the_monero_ecosystem) and the [Monero Policy Working Group website](https://privacyseries.github.io/posts/2024-12-22-micar-monero), I outlined the impact of the European [Market in Crypto-Assets Regulation](http://data.europa.eu/eli/reg/2023/1114/2024-01-09) (MiCAR) on the Monero ecosystem. 
 
@@ -18,7 +18,7 @@ This blog will attempt to provide some clarity as to what ‘fully decentralised
 
 Please note that what is written here is **not legal advice**. It is just a blog. 
 
-##MiCAR focus
+## MiCAR focus
 
 As I pointed out in the first blog, MiCAR sets rules for the European Distributed Ledger Technology (DLT) ecosystem, providing legal obligations (MiCAR, Article 2) for aspects related to:
 
@@ -28,7 +28,7 @@ requirements for the authorisation, supervision, operation, organisation and gov
 - requirements for the protection of clients of crypto-asset service providers;
 - measures to prevent insider dealing, unlawful disclosure of inside information and market manipulation related to crypto-assets.
 
-###MiCAR and decentralisation
+### MiCAR and decentralisation
 
 While the general scope of MiCAR is probably beneficial for overall consumer acceptance and stability of the DLT ecosystem, the wording around the concept of ‘decentralisation’ is less so. With that in mind, what exactly is the wording? The answer is found in Recital 22:
 
@@ -75,7 +75,7 @@ The question of ‘decentralisation’ is particularly relevant for determining 
 
 Ultimately, the difference between being classified as ‘fully’ or ‘partly’ decentralised will determine both compliance obligations and, more importantly, apportioning of legal liability.
 
-##So, what exactly is decentralisation then?
+## So, what exactly is decentralisation then?
 
 You might be surprised how difficult this question is to answer. 
 
@@ -87,7 +87,7 @@ In reality, ‘decentralisation’ is a spectrum: with a range between ‘fully 
 
 However, these terms are pretty vague and finding some indicator in order to place a target on the spectrum, seems an illusive goal.  
 
-###Academic research on decentralisation
+### Academic research on decentralisation
 
 There is a rich tapestry of research on the concept of decentralisation, predominately studied through frames such as network theory, management theory, behavioural theory, and political theory (to name a few). 
 
@@ -129,13 +129,13 @@ Buterin discredits the original diagram of Paul Baran – especially the manner 
 
 It is easy (and endless) to pitter patter around decentralisation philosophy – but, ultimately, what matters (especially with respect to legal liability) is how regulators understand, and apply, the term. 
 
-###The ‘authorities’ on decentralisation
+### The ‘authorities’ on decentralisation
 
 Regulatory speaking, there are a few ‘official positions’ available on the topic. 
 
 Notable international and European agencies such as the [OECD](https://www.oecd.org/en/publications/why-decentralised-finance-defi-matters-and-the-policy-implications_109084ae-en.html), the [BIS](https://www.bis.org/publ/qtrpdf/r_qt2112b.pdf), [Banque de France](https://acpr.banque-france.fr/en/publications-and-statistics/publications/decentralised-or-disintermediated-finance-what-regulatory-response), [ESMA](https://www.esma.europa.eu/sites/default/files/2023-10/ESMA50-2085271018-3349_TRV_Article_Decentralised_Finance_in_the_EU_Developments_and_Risks.pdf), and the [ESRB](https://www.esrb.europa.eu/pub/pdf/reports/esrb.cryptoassetsanddecentralisedfinance202305~9792140acd.en.pdf?853d899dcdf41541010cd3543aa42d37) have all provided their ‘expert reports’ on DeFi. None, however, have provided a robust definition, or methods, for determining the degree of decentralisation. 
 
-###Does decentralisation exist?
+### Does decentralisation exist?
 
 A common theme does emerge when reading the reports: they believe that decentralisation in the DLT ecosystem is often ‘claim-based’. 
 
@@ -217,7 +217,7 @@ This might not be the most welcome conclusion but, unfortunately, with the nasce
 
 It is difficult to imagine a world where ‘decentralisation == exemption from legal liability’, but it is also difficult to imagine a world where the decentralisation ideology isn’t able to lead the development of meaningful, and impactful, tools for the beneficial development of society. 
 
-##Conclusion
+## Conclusion
 
 In the murky, muddy, and distinctly dirty world of DL Techno-infused-enfranchisement, decentralisation might be viewed as a ‘pseudo-fantasia’. Much like the word ‘blockchain’, we have reached a stage of apoplectic semantic satiation. It means everything and nothing simultaneously. 
 
