@@ -182,11 +182,10 @@ Finanstilsynet, however, **do provide a method for qualifying the degree of dece
 
 The high-level overview is provided in this diagram:
 
-![Super wide](././images/diagram_1.png)
 {{< figure 
     src="../../images/diagram_1.png"
     alt="alt-test"
-    caption="Qualifying a decentralised service (Danish Financial Supervisory Authority, p.3)"
+    caption="Figure.1 Qualifying a decentralised service"
     >}}
 
 
@@ -236,7 +235,8 @@ Removing identifiable profit motives, revenue streams, and any, and all, legal e
 
 After that? Probably urge others to build on what has been built – fostering emergence and driving explicit bifurcation across both physical, and digital, planes. 
 
-Is all that actually achievable **and** sustainable? Honestly, I have no idea. Thankfully, the regulators probably don’t know either.
+Is all that actually achievable **and** sustainable? Honestly, I have no idea. Thankfully, the regulators probably don’t know either.  
+
 
 *The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](../2019-01-01-about/).*
 
