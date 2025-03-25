@@ -186,7 +186,7 @@ The high-level overview is provided in this diagram:
 {{< figure 
     src="../../images/diagram_1.png"
     alt="alt-test"
-    caption="Qualifying a decentralised service (Danish Financial Supervisory Authority, p.3"
+    caption="Qualifying a decentralised service (Danish Financial Supervisory Authority, p.3)"
     >}}
 
 
