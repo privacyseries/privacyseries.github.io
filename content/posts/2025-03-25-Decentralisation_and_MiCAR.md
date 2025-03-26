@@ -182,7 +182,7 @@ Finanstilsynet, however, **do provide a method for qualifying the degree of dece
 
 The high-level overview is provided in this diagram:
 
-[image](/images/diagram.png)
+![image](https://raw.githubusercontent.com/privacyseries/privacyseries.github.io/refs/heads/master/images/diagram.png)
 
 Finanstilsynet put great emphasis on the existence of a ‘legal entity’, including the ability to identify the specific activity that the legal entity has disposal over. 
 
