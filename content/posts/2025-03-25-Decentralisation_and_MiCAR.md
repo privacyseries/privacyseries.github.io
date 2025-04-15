@@ -18,6 +18,8 @@ This blog will attempt to provide some clarity as to what ‘fully decentralised
 
 Please note that what is written here is **not legal advice**. It is just a blog. 
 
+Also, it is worth remembering that providers of non-custodial hardware and software wallets are **exempt from being classified as crypto-asset service providers**, and thus exempt from the regulation (MiCAR, Recital 83).
+
 ## MiCAR focus
 
 As I pointed out in the first blog, MiCAR sets rules for the European Distributed Ledger Technology (DLT) ecosystem, providing legal obligations (MiCAR, Article 2) for aspects related to:
