@@ -18,3 +18,7 @@ url = "https://github.com/monero-policy"
 [[entries]]
 title = "x"
 url = "https://x.com/MoneroPolicy"
+
+[[entries]]
+title = "cryptocurrency price charts (90 days)"
+url = "https://privacyseries.github.io/cc_chart.html"
