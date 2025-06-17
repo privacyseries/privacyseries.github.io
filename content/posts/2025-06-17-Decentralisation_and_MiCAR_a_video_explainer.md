@@ -18,7 +18,7 @@ It can be found below...(enjoy)
 
 <p style="text-align: center;">
 
-![](./images/video-MiCAR_1.mp4)
+https://github.com/privacyseries/privacyseries.github.io/blob/532ac9bce35c2bf6b17ca05aa2a16c7c707f7daa/images/video-MiCAR_1.mp4
 
 </p>
 
