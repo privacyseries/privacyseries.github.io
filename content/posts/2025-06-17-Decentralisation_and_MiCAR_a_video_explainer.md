@@ -8,19 +8,17 @@ date: 2025-06-17T00:00:00+08:00
 
 ## Introduction
 
-Prevsiously, we [published](https://privacyseries.github.io/posts/2025-03-25-decentralisation_and_micar/) an article on the interrelation between MiCAR and the concept od decentralisation. That article outlined how MiCAR deals with the concept of decentralisation, and how it might impact various projects in the DLT ecosystem.  
+Prevsiously, we [published](https://privacyseries.github.io/posts/2025-03-25-decentralisation_and_micar/) an article on the interrelation between MiCAR and the concept of decentralisation. That article outlined how MiCAR deals with the concept, and how it might impact various projects in the DLT ecosystem.  
 
 ## A video explainer
 
-[Stack Wallet](https://stackwallet.com/) have since made the first part of a beautiful two-part video series, that will outline the main points of that article. 
+[Stack Wallet](https://stackwallet.com/) have since published the first video of a beautiful two-part series, that will outline the main points of that article. 
 
 It can be found below...(enjoy)
 
 <p style="text-align: center;">
 
-<video width="320" height="240" controls>
-  <source src="./images/video-MiCAR_1.mp4" type="video/mp4">
-</video>
+![](./images/video-MiCAR_1.mp4)
 
 </p>
 
