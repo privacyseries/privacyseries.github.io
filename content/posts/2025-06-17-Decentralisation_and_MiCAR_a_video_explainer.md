@@ -14,17 +14,8 @@ Prevsiously, we [published](https://privacyseries.github.io/posts/2025-03-25-dec
 
 [Stack Wallet](https://stackwallet.com/) have since published the first video of a beautiful two-part series, that will outline the main points of that article. 
 
-It can be found below...(enjoy)
+It can be found on Youtube [here](https://www.youtube.com/watch?v=pYkAgBtjhtw)
 
-<a href="https://www.youtube.com/watch?v=pYkAgBtjhtw">
-  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpYkAgBtjhtw" alt="MiCAR and decentralisation" title="MiCAR and decentralisation"/>
-</a>
-
-<video width="320" height="240" controls>
-  <source src="images/video-MiCAR_1.mp4" type="video/mp4">
-</video>
-
-<br>
 *The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](../2019-01-01-about/).*
 
 *This authorship of this blog was kindly supported by funding from [Power Up Privacy](https://powerupprivacy.com/).*
