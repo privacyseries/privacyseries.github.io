@@ -16,7 +16,9 @@ Prevsiously, we [published](https://privacyseries.github.io/posts/2025-03-25-dec
 
 It can be found below...(enjoy)
 
-[![MiCAR and decentralisation](images/video-MiCAR_1.mp4)
+<a href="https://www.youtube.com/watch?v=pYkAgBtjhtw">
+  <img src="https://markdown-videos-api.jorgenkh.no/url?url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DpYkAgBtjhtw" alt="MiCAR and decentralisation" title="MiCAR and decentralisation"/>
+</a>
 
 *The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](../2019-01-01-about/).*
 
