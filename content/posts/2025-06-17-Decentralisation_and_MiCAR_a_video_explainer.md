@@ -12,11 +12,9 @@ Prevsiously, we [published](https://privacyseries.github.io/posts/2025-03-25-dec
 
 ## A video explainer
 
-[Stack Wallet](https://stackwallet.com/) have since published the first video of a beautiful two-part series, that will outline the main points of that article. 
+[Stack Wallet](https://stackwallet.com/) have since published the first of a beautiful two-part video series, outlining the main points of the article. 
 
-It can be found on Youtube [here](https://www.youtube.com/watch?v=pYkAgBtjhtw)
-
-[![MiCAR video](https://img.youtube.com/vi/pYkAgBtjhtw/maxresdefault.jpg)](https://www.youtube.com/watch?v=pYkAgBtjhtw)
+It can be found on Youtube [here](https://www.youtube.com/watch?v=pYkAgBtjhtw) or just watch it below.
 
 {{< youtube pYkAgBtjhtw >}}
 
