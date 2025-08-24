@@ -1,6 +1,6 @@
 ---
 draft: false
-title: "Decentralisation and MiCAR - a video (Part 1)"
+title: "Decentralisation and MiCAR - a video (Part 2)"
 date: 2025-08-23T00:00:00+08:00
 ---
 
@@ -12,11 +12,11 @@ Prevsiously, we [published](https://privacyseries.github.io/posts/2025-03-25-dec
 
 ## A video explainer
 
-[Stack Wallet](https://stackwallet.com/) have since published the first of a beautiful two-part video series, outlining the main points of the article. 
+[Stack Wallet](https://stackwallet.com/) have published the second of their beautiful two-part video series, outlining the main points of the article. 
 
-It can be found on Youtube [here](https://www.youtube.com/watch?v=pYkAgBtjhtw) or just watch it below.
+It can be found on Youtube [here](https://www.youtube.com/watch?v=LfNHIyVFomE) or just watch it below.
 
-{{< youtube pYkAgBtjhtw >}}
+{{< youtube LfNHIyVFomE >}}
 
 *The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](../2019-01-01-about/).*
 
