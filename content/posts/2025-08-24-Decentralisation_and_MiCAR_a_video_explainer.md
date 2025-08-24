@@ -1,7 +1,7 @@
 ---
 draft: false
 title: "Decentralisation and MiCAR - a video (Part 1)"
-date: 2025-06-17T00:00:00+08:00
+date: 2025-08-23T00:00:00+08:00
 ---
 
 *The Monero Policy Working Group (MPWG) is a loose quorum of individuals attempting to engage in regulatory and policy conversations regarding cryptocurrency, blockchain and distributed ledger technologies.*
