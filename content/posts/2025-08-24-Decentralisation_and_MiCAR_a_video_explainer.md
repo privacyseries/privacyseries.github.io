@@ -16,7 +16,7 @@ Prevsiously, we [published](https://privacyseries.github.io/posts/2025-03-25-dec
 
 It can be found on Youtube [here](https://www.youtube.com/watch?v=LfNHIyVFomE) or just watch it below.
 
-{{< youtube pYkAgBtjhtw >}}
+{{< youtube LfNHIyVFomE >}}
 
 *The Monero Policy Working Group (MPWG) is responsible for this content. This is not legal advice, and it should not be relied upon for any purpose by third parties. To learn more about the MPWG, [click here](../2019-01-01-about/).*
 
