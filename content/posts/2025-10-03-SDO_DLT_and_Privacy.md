@@ -4,7 +4,7 @@ title: "Privacy and data protection in DLT: Standards development at the ISO and
 date: 2025-10-03T00:00:00+08:00
 ---
 
-##Introduction
+#Introduction
 
 Distributed Ledger Technology (DLT) has started to be deployed in broad array of domains, developing prominent roles in finance, trust services, art, and gaming. Europe has provided the Single Market with a robust regulatory framework for DLT, through the domain specific [Market in Crypto-Assets Regulation](https://eur-lex.europa.eu/eli/reg/2023/1114/oj) (MiCAR), and complementary regulations in the realms of finance (e.g., [Anti-money Laundering Regulation](https://eur-lex.europa.eu/eli/reg/2024/1624/oj), [MiFID 2](https://eur-lex.europa.eu/eli/dir/2014/65/oj), [Transfer of Funds Regulation](https://eur-lex.europa.eu/eli/reg/2023/1113/oj), etc), trust services (e.g., [eIDAS2](https://eur-lex.europa.eu/eli/reg/2024/1183/oj)), and data (e.g., [GDPR](https://eur-lex.europa.eu/eli/reg/2016/679/oj), [Data Act](https://eur-lex.europa.eu/eli/reg/2023/2854/oj), [Data Governance Act](https://eur-lex.europa.eu/eli/reg/2022/868/oj), etc). 
 
@@ -14,7 +14,7 @@ However, after 15 years of the technology existing, data protection and privacy 
 
 This blog outlines the privacy and data protection focused work being done in standards development organisations: the International Standards Organization (ISO), as well as the European Committee for Standardization and the European Committee for Electrotechnical Standardization – together entitled ‘CEN/CLC’. It introduces the standards currently in development that will, hopefully, provide clarity for European and international DLT ecosystems, as actors attempt to navigate the complexities of balancing privacy, data protection, and accountability requirements across use-cases.
 
-##Privacy, data protection, and the European DLT ecosystem
+#Privacy, data protection, and the European DLT ecosystem
 
 The European community has enshrined privacy and data protection into the [Charter of Fundamental Rights for the European Union](https://eur-lex.europa.eu/eli/treaty/char_2012/oj) through Articles 7 (privacy) and Article 8 (data protection). 
 
@@ -26,7 +26,7 @@ Previously, the ISO published a technical report [ISO/TR 23244:2020 Blockchain a
 
 Some years later, technology has evolved, and specific privacy requirements (and technological limitations) have begun to surface, as deployers and developers attempt to understand the tradeoffs between privacy, security, decentralisation, and regulatory obligations concerning identifiability, accountability and attribution. 
 
-##SDOs establishing privacy and data protection norms
+#SDOs establishing privacy and data protection norms
 
 Through the ISO, work is being done to standardise the deployment of privacy technologies in the DLT ecosystem. [ISO TS 24946 Requirements and guidance for improving, preserving, and assessing the privacy capability of DLT systems](https://www.iso.org/standard/88614.html) is a technical specification currently at the Committee Draft (CD1) stage. The project is housed within a Joint Technical Committee, entitled ISO/TC 307/JWG 4 "Joint ISO/TC 307 - ISO/IEC JTC 1/SC 27 WG: Security, privacy and identity for Blockchain and DLT". 
 
@@ -38,7 +38,7 @@ From a European perspective, CEN/CLC recently approved (March 2025) the creation
 
 CEN/CLC JTC 19/WG 3 are currently producing a European standard on personal data protection within DLT, strongly influenced by [DIN Spec 4997 - Privacy by Blockchain Design](https://webstore.ansi.org/standards/din/dinspec49972020) and ISO TS 24946. Harmonisation between the international specification at ISO and the European standard will support interoperability and ensure that privacy and data protection capabilities are standardised globally.
 
-##European data protection norms and societal impact
+#European data protection norms and societal impact
 
 European standardisation objectives at the intersection of DLT, privacy, and data protection are detailed in the [Rolling Plan for ICT Standardisation 2025](https://interoperable-europe.ec.europa.eu/collection/rolling-plan-ict-standardisation/rolling-plan-2025). The EC Rolling plan acknowledges that privacy, and data protection by-design auditing, is a target, especially through distinct certification services. The work proposed within CEN/CLC/JTC19/WG3 is based on the concept of 'Privacy-by-Blockchain-Design', developed through the German standards authority DIN. Further elaboration of the methods, frameworks and assessment tools in the DIN 4997 specification will support wider privacy and security enhancements for Europe, impacting on the privacy afforded to wider European society. 
 
@@ -48,7 +48,7 @@ Currently, MiCAR and AMLR propose exacting compliance obligations on Crypto-Asse
 
 The work being completed might help clarify some of the existing uncertainty which has, ultimately, led to the delisting of some privacy-preserving assets from the European market. These privacy-preserving assets have been marginalised as regulatory pressure has been applied, with CASPs classifying some of the exact technologies detailed in international standards such as the aforementioned “ISO TR2344:2020” as too ‘high-risk’ for their specific AMLR related compliance objectives, even though the same technologies are considered key components of GDPR compliance, and specific technical measures required for robust data protection risk mitigation. 
 
-##Towards regulatory alignment and international harmonisation
+#Towards regulatory alignment and international harmonisation
 
 Exacting requirements such as those posed by Article 76(3) of MiCAR, on “inbuilt anonymisation functions” as well as Recital 160 and Article 79(1) of the European AMLR, on “anonymity-enhancing coins” require careful navigation. 
 
@@ -58,6 +58,6 @@ Guidance on assessing DLT privacy affordances will allow National Competent Auth
 
 The work is also directly related to the European Rolling Plan for ICT standardisation, "Action 5: SDOs to continue investigating technical measures apt to make personal data anonymous or pseudonymised (and therefore unintelligible by those who are not authorised to access them)."
 
-##Conclusion
+#Conclusion
 
 Harmonisation efforts at the international level (through ISO TS 24946) will support global interoperability and ensure that European expectations and norms are represented fairly. Experts working in parallel through CEN/CLC/JTC19/WG3 and ISO/JWG4 will ensure coherence, with more fairly represented consensus discussions being reached on key topics. Stronger collaboration between European and international interests in the DLT ecosystem will try to ensure that the privacy and data protection harms we currently see in the vast majority of DLT systems, do not propagate further than is necessary, with the required risk mitigation tools, and technologies, being developed, supported, and recommended across DLT’s target domains, impacting European, and global, society for the better.
